@@ -1,5 +1,0 @@
-Name: Humayra
-Course: BCA
-One thing I learnt about GitHub is that it is used for storing
-projects and allows end-users to access our projects worldwide, 
-if we store the projects publicly.
